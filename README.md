@@ -1,1 +1,1 @@
-# genetic_algorism_python
+파이썬으로 flappy bird 게임을 이용해 만든 유전 알고리즘입니다.
